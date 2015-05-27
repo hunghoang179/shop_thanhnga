@@ -3,9 +3,25 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-config.php</file>
-            <file>file:/E:/work/xampp/htdocs/caucathanhnga/index.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/single.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/css/custom.css</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/plugins/woocommerce/includes/gateways/bacs/class-wc-gateway-bacs.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/header.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/style.css</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/plugins/woocommerce/templates/single-product/meta.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/inc/header/main-menu.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/languages/plugins/woocommerce-vi.po</file>
             <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/footer.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/inc/admin/data/widget/widget_data.json</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/css/yith_compare.css</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/inc/header/top-header.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/inc/header/header_v1.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/inc/header/drawer.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-config.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/functions.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/woocommerce/global/quantity-input.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/themes/zoneshop/woocommerce/single-product/meta.php</file>
+            <file>file:/E:/work/xampp/htdocs/caucathanhnga/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php</file>
         </group>
     </open-files>
 </project-private>

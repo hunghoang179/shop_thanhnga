@@ -126,7 +126,7 @@ class WC_Shortcode_Checkout {
 				if ( $order->has_status( $valid_order_statuses ) ) {
 
 					?>
-					<ul class="order_details">
+<ul class="order_details">
 						<li class="order">
 							<?php _e( 'Order Number:', 'woocommerce' ); ?>
 							<strong><?php echo $order->get_order_number(); ?></strong>
